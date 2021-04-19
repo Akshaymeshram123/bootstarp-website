@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img-size img{
+    min-width: 100%;
+    max-width: 250;
+}
+.btn{
+    width: 10rem;
+    outline: none;
+}
+.btn-2{
+    width: 6rem;
+}
+
+.bg-color{
+    background-color: #a6dcef;
+}
+
+.footer p{
+     margin-bottom: 0;
+}
